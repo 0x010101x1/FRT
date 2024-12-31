@@ -30,6 +30,6 @@ psycopg2==2.9.5
 phone-iso3166==0.4.1
 stream-sqlite==0.0.41
 Jinja2==3.1.2
-python-multipart==0.0.5
+python-multipart==0.0.18
 fastapi-login==1.8.3
 websockets==10.4
